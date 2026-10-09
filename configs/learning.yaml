@@ -1,0 +1,1 @@
+{"alpha": 0.24, "gamma": 0.94, "epsilon_start": 0.35, "epsilon_final": 0.06, "epsilon_decay": 0.985, "curiosity_bonus": 0.0, "replay_capacity": 1500, "replay_per_step": 2, "replay_alpha_scale": 0.25}

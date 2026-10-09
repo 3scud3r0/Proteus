@@ -1,0 +1,1 @@
+{"max_seconds_per_cycle": 30, "max_episodes_per_cycle": 500, "max_memory_records": 200000, "max_workspace_bytes": 20000000, "gpu_required": false, "allow_cloud_compute": false}

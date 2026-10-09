@@ -1,0 +1,1 @@
+{"allow_network": false, "allow_shell": false, "allow_arbitrary_python": false, "allow_self_modify": false, "require_approval_for_promotion": true, "allowed_workspace": "data/workspace"}

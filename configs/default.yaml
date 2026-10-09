@@ -1,0 +1,6 @@
+{
+  "name": "PROTEUS", "seed": 7, "max_steps_per_episode": 64,
+  "training_episodes": 200, "grid_size": 6, "wall_probability": 0.0,
+  "database": "data/proteus.sqlite3", "workspace": "data/workspace",
+  "log_level": "INFO"
+}
